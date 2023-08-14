@@ -11,4 +11,4 @@ Welcome to my portfolio, I just started with a portfolio.  Each port is in begin
 ## Tableau
 |   Project Link  | Project Description |
 |------------------ | ------------------- |
-|[Medical Insurance Premium Prediction](https://github.com/SaowalakMeethong/Medical-Insurance-Premium-Prediction/blob/main/README.md)|The data is presented to predict customer health insurance premiums by using information about the customer's health to make predictions.|
+|[Medical Insurance Premium Prediction](https://github.com/SaowalakMeethong/Medical-Insurance-Premium-Prediction)|The data is presented to predict customer health insurance premiums by using information about the customer's health to make predictions.|
