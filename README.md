@@ -12,4 +12,4 @@ Welcome to my portfolio, I just started with a portfolio.  Each port is in begin
 ## Tableau
 |   Project Link  | Project Description |
 |------------------ | ------------------- |
-|[Sale Export 2019-2020](https://github.com/SaowalakMeethong/Medical-Insurance-Premium-Prediction)|This work is based on sales data created specifically for study purposes.  which mainly analyzes the value of the order.|
+|[Sale Export 2019-2020](https://github.com/SaowalakMeethong/Sale-Export-2019-2020)|This work is based on sales data created specifically for study purposes.  which mainly analyzes the value of the order.|
